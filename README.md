@@ -1,2 +1,3 @@
 # examples
-some reference code
+needed to share reference code and examples with students.
+
